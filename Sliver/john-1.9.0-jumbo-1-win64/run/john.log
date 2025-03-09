@@ -1,0 +1,48 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /run/john --wordlist=C:\AD\Tools\kerberoast\10k-worst-pass.txt C:\AD\Tools\hashes.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: krb5tgs, Kerberos 5 TGS etype 23 (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: MD4 HMAC-MD5 RC4
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 768
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: C:\AD\Tools\kerberoast\10k-worst-pass.txt
+0:00:00:00 - memory mapping wordlist (83169 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked ?
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /run/john --wordlist=C:\AD\Tools\kerberoast\10k-worst-pass.txt C:\AD\Tools\targetedhashes.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: krb5tgs, Kerberos 5 TGS etype 23 (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: MD4 HMAC-MD5 RC4
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 768
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: C:\AD\Tools\kerberoast\10k-worst-pass.txt
+0:00:00:00 - memory mapping wordlist (83169 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked ?
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /run/john --wordlist=C:\AD\Tools\kerberoast\10k-worst-pass.txt C:\AD\Tools\euhashes.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: krb5tgs, Kerberos 5 TGS etype 23 (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: MD4 HMAC-MD5 RC4
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 768
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: C:\AD\Tools\kerberoast\10k-worst-pass.txt
+0:00:00:00 - memory mapping wordlist (83169 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked ?
+0:00:00:00 Session completed
